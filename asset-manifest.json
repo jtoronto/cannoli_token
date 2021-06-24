@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jtoronto/cannoli_token.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/jtoronto/cannoli_token.git/static/js/main.b51969aa.chunk.js",
+    "main.js.map": "/jtoronto/cannoli_token.git/static/js/main.b51969aa.chunk.js.map",
+    "runtime-main.js": "/jtoronto/cannoli_token.git/static/js/runtime-main.ef2d1509.js",
+    "runtime-main.js.map": "/jtoronto/cannoli_token.git/static/js/runtime-main.ef2d1509.js.map",
+    "static/js/2.8880436d.chunk.js": "/jtoronto/cannoli_token.git/static/js/2.8880436d.chunk.js",
+    "static/js/2.8880436d.chunk.js.map": "/jtoronto/cannoli_token.git/static/js/2.8880436d.chunk.js.map",
+    "index.html": "/jtoronto/cannoli_token.git/index.html",
+    "precache-manifest.df8c431ad7075e92bbe28722d57d95cc.js": "/jtoronto/cannoli_token.git/precache-manifest.df8c431ad7075e92bbe28722d57d95cc.js",
+    "service-worker.js": "/jtoronto/cannoli_token.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/jtoronto/cannoli_token.git/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef2d1509.js",
+    "static/js/2.8880436d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.b51969aa.chunk.js"
+  ]
+}
